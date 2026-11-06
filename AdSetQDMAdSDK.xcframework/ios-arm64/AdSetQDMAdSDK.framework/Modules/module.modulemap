@@ -1,0 +1,6 @@
+framework module AdSetQDMAdSDK {
+  umbrella header "advista.h"
+  export *
+
+  module * { export * }
+}

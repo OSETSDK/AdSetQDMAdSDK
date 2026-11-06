@@ -1,0 +1,6 @@
+AdSetQDMAdSDK 1.4.16 binary distribution notice
+
+This repository packages the supplied AdSetQDMAdSDK.xcframework for OSET distribution.
+The SDK binary, embedded assets, public headers and privacy manifest remain subject to the original publisher's commercial license and applicable terms.
+Packaging and CocoaPods metadata do not replace or expand those terms and do not grant an open-source license to the SDK binary.
+The supplied SDK archive contained no separate license document. Obtain the applicable commercial SDK terms from the original publisher or the authorized distributor.
